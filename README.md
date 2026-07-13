@@ -127,7 +127,30 @@ interests:
 
 ---
 
+---
 
+## 🏆 Certifications & Badges
+
+<div align="center">
+
+<a href="https://www.credly.com/earner/earned/share/0875624f-f2cf-4cb9-b9ee-e9d896eb0a64">
+<img src="https://img.shields.io/badge/IBM%20SkillsBuild-Artificial%20Intelligence%20Fundamentals-8B5CF6?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+
+<a href="https://www.credly.com/earner/earned/share/46ab389d-ec82-4e9f-8223-e8b9cbd2ae04">
+<img src="https://img.shields.io/badge/IBM%20SkillsBuild-Generative%20AI%20Fundamentals-38BDF8?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+| Certification | Issuer | Verification |
+|---|---|---|
+| Artificial Intelligence Fundamentals | IBM SkillsBuild | [View Badge](https://www.credly.com/earner/earned/share/0875624f-f2cf-4cb9-b9ee-e9d896eb0a64) |
+| Generative AI Fundamentals | IBM SkillsBuild | [View Badge](https://www.credly.com/earner/earned/share/46ab389d-ec82-4e9f-8223-e8b9cbd2ae04) |
+
+---
 ## 🎯 Currently
 
 <p align="center">
